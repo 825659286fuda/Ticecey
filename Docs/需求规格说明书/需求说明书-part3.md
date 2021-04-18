@@ -4,15 +4,15 @@
 
 - 用户界面1
 
-![](C:\Users\28531\Desktop\桌面文件\软件工程实践课\需求文档\首页.png)
+![](https://github.com/jackyar/Ticecey/blob/work01/Docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6/Img/%E9%A6%96%E9%A1%B5.png)
 
 - 用户界面2
 
-![](C:\Users\28531\Desktop\桌面文件\软件工程实践课\需求文档\我的.png)
+![](https://github.com/jackyar/Ticecey/blob/work01/Docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6/Img/%E6%88%91%E7%9A%84.png)
 
 - 年度账单界面
 
-![](C:\Users\28531\Desktop\桌面文件\软件工程实践课\需求文档\账单1.png)
+![](https://github.com/jackyar/Ticecey/blob/work01/Docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6/Img/%E8%B4%A6%E5%8D%951.png)
 
 ### 3.2 硬件接口
 
